@@ -71,7 +71,7 @@ Follow instructions from the github documentation <a href="https://docs.github.c
 ```
 
 # How to Create the Documentation
-From the root folder
+From the root folder run
 ```
   javadoc -d doc implementation/*.java
 
